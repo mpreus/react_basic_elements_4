@@ -1,0 +1,45 @@
+body {
+	background-image: url("../pictures/fatesworsethandeath.jpg");
+	background-repeat: no-repeat;
+	background-position: 50% 200px;
+	box-shadow: 5px 5px 5px #333;
+}
+
+#root {
+	background-color: #fff;
+	border: 1px solid grey;
+	border-radius: 5px;
+	box-shadow: 4px 4px 4px grey;
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+input#age {
+	margin-left: 10px;
+}
+
+label {
+	margin-left: 15px;
+}
+
+button {
+	border-radius: 3px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	padding: 8px;
+	width: 125px;
+}
+
+button:hover {
+	box-shadow: 2px 2px 2px grey;
+}
+
+p {
+	margin-top: 0;
+}
